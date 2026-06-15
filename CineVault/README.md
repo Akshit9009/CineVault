@@ -1,4 +1,4 @@
-# cine·scope
+# Cine.Vault
 
 Minimal movie & TV streaming site built with React + Vite.
 
